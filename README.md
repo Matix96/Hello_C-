@@ -1,2 +1,2 @@
-# Hello_C-
+# Hello_C++
 Practice
